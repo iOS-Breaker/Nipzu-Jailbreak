@@ -2,6 +2,12 @@
 
 Nipzu is an easy and fast way to jailbreak your iOS 18 device. You don’t need a computer—just use your iPhone’s browser to get started. It's perfect for anyone who wants a simple jailbreak without any hassle.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95720709-cf0b-4ba2-8283-c2f911cb6991" width="150" height="150" alt="Nipzu Image" />
+</p>
+
+
 ## 🔧 Main Features
 
 100% Online - Jailbreak your device straight from your iPhone’s browser.
