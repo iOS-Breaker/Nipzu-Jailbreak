@@ -1,6 +1,6 @@
 <h1 align="center"> Nipzu Online Jailbreak</h1>
 
-Nipzu is an easy and fast way to jailbreak your iOS 18 - iOS 18.5 beta device. You don’t need a computer—just use your iPhone’s browser to get started. It's perfect for anyone who wants a simple jailbreak without any hassle.
+Nipzu is an easy and fast way to jailbreak your iOS 18 - iOS 18.5 beta 4 device. You don’t need a computer—just use your iPhone’s browser to get started. It's perfect for anyone who wants a simple jailbreak without any hassle.
 
 Nipzu Online Jailbreak is also comaptible with iOS 18.4.1. 
 
